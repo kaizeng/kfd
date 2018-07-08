@@ -1,4 +1,4 @@
-A simple library to query yahoo finance data in Q/KDB + via PyQ.
+A simple library to query finance data in Q/KDB + via PyQ.
 
 *Example*
 
